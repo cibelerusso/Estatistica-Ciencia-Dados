@@ -298,7 +298,6 @@ ruamel.yaml.clib==0.2.6
 rvlib==0.0.6
 s3transfer==0.5.0
 scikit-datasets==0.2.2
-scikit-fda @ file:///hdd/Disciplinas/%212023%20SME0829%20-%20Aprendizado%20de%20M%C3%A1quina/Comandos%20em%20Python/scikit-fda
 scikit-image==0.18.2
 scikit-learn==0.24.2
 scipy==1.7.3
