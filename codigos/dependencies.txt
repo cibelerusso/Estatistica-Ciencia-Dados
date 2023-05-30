@@ -164,7 +164,6 @@ language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.5
-lazy_loader==0.1rc2
 lesscpy==0.15.0
 libclang==11.1.0
 libpysal==4.5.1
